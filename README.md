@@ -8,4 +8,6 @@ Repository will contain articles concerning Urho3D written or translated by me.
 
 ## Urls
 - Urho3D - https://github.com/urho3d
+- Urho3D docs - http://urho3d.github.io/documentation/HEAD/index.html
+- Physical Based Rendering - http://urho3d.github.io/documentation/HEAD/index.html
 - ProcSky - http://urho3d.prophpbb.com/topic1207.html
