@@ -3,7 +3,8 @@
 Repository will contain articles concerning Urho3D written or translated by me.
 
 ## Translate folder
-- http://urho3d.github.io/documentation/HEAD/_rendering.html
+- GraphicsAndRenderer.ru.md - http://urho3d.github.io/documentation/HEAD/_rendering.html
+- Shaders.ru.md - http://urho3d.github.io/documentation/1.5/_shaders.html
 
 
 ## Urls
